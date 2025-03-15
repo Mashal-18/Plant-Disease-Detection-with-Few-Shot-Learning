@@ -1,1 +1,3 @@
 # Plant-Disease-Detection-with-Few-Shot-Learning
+Identification of plant diseases is crucial for agriculture, as plants are vital for various industries. However, with the vast variety of plant species, it is difficult to identify diseases manually. Even experts struggle to differentiate healthy and diseased plants with the naked eye.
+In this project, we address the challenge of plant disease detection using Few-Shot Learning (FSL), a method that reduces the need for large datasets. Our proposed Embedder model is computationally efficient and scalable, delivering accurate plant disease classification. After experimentation, the model achieved 94% accuracy in identifying plant diseases.
